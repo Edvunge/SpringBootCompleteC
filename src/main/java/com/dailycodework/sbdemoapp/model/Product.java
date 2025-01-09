@@ -1,4 +1,4 @@
-package com.dailycodework.sbdemoapp.product;
+package com.dailycodework.sbdemoapp.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
